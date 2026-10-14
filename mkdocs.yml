@@ -3,8 +3,7 @@ site_description: 使用 MkDocs 构建并通过 GitHub Actions 自动部署到 G
 site_author: 我的技术文档
 # 这一行必须换成你自己的 Pages 地址（双引号包起来），例如：
 # site_url: "https://zhongxj.github.io/my-docs/"
-site_url: "https://GITHUB_USERNAME.github.io/REPO_NAME/"
-
+site_url: "https://508435139.github.io/my-docs/"
 theme:
   name: material
   language: zh
